@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Fabrik-Pizza-Burger/static/css/main.1ff426b1.css",
+    "main.js": "/Fabrik-Pizza-Burger/static/js/main.2715904e.js",
+    "static/js/453.5e87ab4d.chunk.js": "/Fabrik-Pizza-Burger/static/js/453.5e87ab4d.chunk.js",
+    "static/media/basket.png": "/Fabrik-Pizza-Burger/static/media/basket.2b480efd3dd902681541.png",
+    "index.html": "/Fabrik-Pizza-Burger/index.html",
+    "main.1ff426b1.css.map": "/Fabrik-Pizza-Burger/static/css/main.1ff426b1.css.map",
+    "main.2715904e.js.map": "/Fabrik-Pizza-Burger/static/js/main.2715904e.js.map",
+    "453.5e87ab4d.chunk.js.map": "/Fabrik-Pizza-Burger/static/js/453.5e87ab4d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ff426b1.css",
+    "static/js/main.2715904e.js"
+  ]
+}
