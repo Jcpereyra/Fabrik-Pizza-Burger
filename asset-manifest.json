@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/Fabrik-Pizza-Burger/static/css/main.1ff426b1.css",
+    "main.css": "/Fabrik-Pizza-Burger/static/css/main.630e5969.css",
     "main.js": "/Fabrik-Pizza-Burger/static/js/main.2715904e.js",
     "static/js/453.5e87ab4d.chunk.js": "/Fabrik-Pizza-Burger/static/js/453.5e87ab4d.chunk.js",
+    "static/media/circle-9360_512.gif": "/Fabrik-Pizza-Burger/static/media/circle-9360_512.cc2273324d24230c3220.gif",
     "static/media/basket.png": "/Fabrik-Pizza-Burger/static/media/basket.2b480efd3dd902681541.png",
     "index.html": "/Fabrik-Pizza-Burger/index.html",
-    "main.1ff426b1.css.map": "/Fabrik-Pizza-Burger/static/css/main.1ff426b1.css.map",
+    "main.630e5969.css.map": "/Fabrik-Pizza-Burger/static/css/main.630e5969.css.map",
     "main.2715904e.js.map": "/Fabrik-Pizza-Burger/static/js/main.2715904e.js.map",
     "453.5e87ab4d.chunk.js.map": "/Fabrik-Pizza-Burger/static/js/453.5e87ab4d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1ff426b1.css",
+    "static/css/main.630e5969.css",
     "static/js/main.2715904e.js"
   ]
 }
